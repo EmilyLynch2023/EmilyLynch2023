@@ -7,7 +7,7 @@
 - <b>Portfolio Website</b>
   - (https://emilylynch2023.github.io/portfolio/) <b><i></b></i>
 - <b>Manchester University Citizen Science Website</b>
-  - (https://github.com/EmilyLynch2023/mucitizenscience) <b><i></b></i>
+  - InfinityFree Website: (http://mucs.infinityfreeapp.com/) Code: (https://github.com/EmilyLynch2023/mucitizenscience) <b><i></b></i>
 <!---- <b>Python</b>
 <!---  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)---->
 
